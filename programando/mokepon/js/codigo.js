@@ -1,6 +1,6 @@
 
-            function aleatorio(min, max) {
-            return Math.floor(Math.random() * (max - min + 1) + min)
+  function aleatorio(min, max) {
+  return Math.floor(Math.random() * (max - min + 1) + min)
       }
         let jugador = 0
         let pc = 0
